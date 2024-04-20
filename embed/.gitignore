@@ -1,0 +1,4 @@
+index.zig
+.env
+zig-cache
+zig-out
